@@ -4,7 +4,7 @@
   "description": "Mini-app for killing app that using port",
   "main": "portkiller.js",
   "author": "0xe9f",
-  "license": "MIT",
+  "license": "Apache 2.0",
   "private": false,
   "scripts": {
     "start": "nodemon portkiller.js"
