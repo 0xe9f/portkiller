@@ -1,0 +1,15 @@
+{
+  "name": "portkiller",
+  "version": "1.0.0",
+  "description": "Mini-app for killing app that using port",
+  "main": "portkiller.js",
+  "author": "0xe9f",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "nodemon portkiller.js"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
